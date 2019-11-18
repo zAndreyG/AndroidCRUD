@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidCRUD</string>
+
+    <!-- Text Fields -->
+    <string name="txf_nome">Nome</string>
+    <string name="txf_cpf">CPF</string>
+    <string name="txf_telefone">Telefone</string>
+
+    <!-- Text Views -->
+    <string name="txv_telefone">Telefone: </string>
+    <string name="txv_cpf">CPF: </string>
+
+    <!-- Buttons -->
+    <string name="btn_salvar">Salvar</string>
+    
+    <!-- Menus -->
+    <string name="menu_cadastrar">Cadastrar</string>
+    <string name="menu_consultar">Consultar</string>
+    <string name="menu_excluir">Excluir</string>
+    <string name="menu_atualizar">Atualizar</string>
+
+
+</resources>
